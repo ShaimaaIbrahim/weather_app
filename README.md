@@ -1,5 +1,12 @@
 # weather_app
 
+#skills
+-bloc pattern
+-flare flutter
+-http connection
+
+
+
 A new Flutter application.
 
 ## Getting Started
